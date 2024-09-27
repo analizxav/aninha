@@ -1,30 +1,30 @@
 .cabecalho {
-    background-color: bisque;
+    background-image: linear-gradient(bisque,darksalmon);
     color: black;
     display: flex;
     padding: 24px 0;
 }
 
 .section1 {
-    background-color: darksalmon;
+    background-image: linear-gradient(darksalmon,chocolate);
     padding: 100px;
 }
 
 .section2 {
-    background-color: chocolate;
+    background-image: linear-gradient(chocolate,peru);
     padding: 100px;
 }
 
 .section1-imagem {
-    width: 8%;
+    width: 10%;
 }
 
 .section2-imagem {
-    width: 8%;
+    width: 10%;
 }
 
 .rodape{
-    background-color: peru;
+    background-image: linear-gradient(peru);
     padding: 100px;
-    width: 8%;
+    width: 10%;
 }
